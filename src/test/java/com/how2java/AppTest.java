@@ -9,9 +9,10 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
+    @Test
+    public void xyg(){
+        System.out.println("hello");
+    }
     @Test
     public void shouldAnswerWithTrue()
     {

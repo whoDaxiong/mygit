@@ -13,7 +13,7 @@ public class App
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
-        System.out.println("驱动初始化成功");
+        System.out.println("熊云港");
 
     }
 }
